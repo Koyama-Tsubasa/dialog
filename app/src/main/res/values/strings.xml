@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex03_12</string>
+    <string name="hello">Example: Ex03_12</string>
+    <string name="str_button01">Click Me to Open Dialog</string>
+    <string name="app_about">Important</string>
+    <string name="app_about_msg">This is a Dialog</string>
+    <string name="str_ok">Ok</string>
+</resources>
